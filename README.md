@@ -5,7 +5,7 @@ AdPro B
 
 ### 1. Original code
 Below is the screenshot of 3 Chats after experiments directed by the docs
-![Screenshot of 3 Chats after experiments](chat.png)
+![Screenshot of 3 Chats after experiments](images/chat.jpg)
 
 ### 2. Be Creative!
 ![Creative Changes 1](images/LightTheme.jpg)
